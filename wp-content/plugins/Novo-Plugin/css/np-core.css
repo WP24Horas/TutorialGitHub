@@ -1,0 +1,71 @@
+/*---------------------------------
+Estilos para o Frontend
+----------------------------------*/
+/*---------------------------------
+CSS Responsivo
+----------------------------------*/
+
+/*
+Medium/Large Screens
+*/
+@media only screen and (max-width: 1430px){
+
+}
+
+/*
+Medium Screens
+*/
+@media only screen and (max-width: 1280px){
+    
+}
+
+/*
+Large Tablet Screen
+*/
+@media only screen and (max-width: 980px){
+    
+}
+
+/*
+Medium Tablet Screen
+*/
+@media only screen and (max-width: 780px){
+    
+}
+
+/*
+Small Tablet Screen / Large Phone Screen
+*/
+@media only screen and (max-width: 600px){
+    
+}
+
+/*
+Large Phone Screen
+*/
+@media only screen and (max-width: 420px){
+    
+}
+
+/*
+Medium Phone Screen
+*/
+@media only screen and (max-width: 380px){
+    
+}
+
+/*
+Small Phone Screen / Apple Watch Screen
+*/
+@media only screen and (max-width: 320px){
+    
+}
+
+/* Estilo Global */
+
+.cta {
+    padding: 5px 10px;
+    border-radius: 5px;
+    box-shadow: 1px 10px 20px #0000ff63;
+    text-decoration: none;
+}
