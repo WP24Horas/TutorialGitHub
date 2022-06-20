@@ -1,4 +1,5 @@
 <?php
+echo "Teste de Atualização";
 /**
  * WordPress User Page
  *
